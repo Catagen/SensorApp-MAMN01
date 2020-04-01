@@ -1,0 +1,4 @@
+#Wed Apr 01 15:21:37 CEST 2020
+base.0=/Users/shabo/AndroidStudioProjects/MyFirstApp/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
