@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="button_compass">Compass</string>
+    <string name="button_accelerometer">Accelerometer</string>
+    <string name="text_welcome">Select a feature</string>
+</resources>
